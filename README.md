@@ -51,6 +51,6 @@ Once the bot is set up and running on your Discord server, you can use the `!pok
 
 <div align = "center">
 <kbd>
-<img src="images/Bot-Output.png" alt="alt text" width="450"/>
+<img src="images/Bot-Output.jpeg" alt="alt text" width="450"/>
 </kbd>
 </div>
